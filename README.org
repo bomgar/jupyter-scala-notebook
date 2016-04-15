@@ -1,0 +1,2 @@
+* scala jupyter notebook
+  extends [[https://github.com/jupyter/notebook][jupyter/notebook]] and installs the scala kernel
